@@ -1,1 +1,1 @@
-console.log("ola k ace")
+console.log("running app.ts")
