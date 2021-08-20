@@ -1,6 +1,6 @@
 module.exports={
-    entry: './src/app.ts',
-    // entry: './src/buffering.ts',
+    //entry: './src/app.ts',
+    entry: './src/buffering.ts',
     // entry: './src/errorHandling.ts',
     // entry: './src/filteringToMultipleResults.ts',
     // entry: './src/filteringToOneResult.ts',

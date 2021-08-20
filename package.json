@@ -11,8 +11,11 @@
     "type": "git",
     "url": "git+https://github.com/UltimateAngular/typescript-basics-seed.git"
   },
-  "keywords": ["typescript"],
+  "keywords": [
+    "typescript"
+  ],
   "devDependencies": {
+    "@types/node": "^16.6.1",
     "awesome-typescript-loader": "3.4.1",
     "typescript": "2.6.2",
     "webpack": "3.10.0",
@@ -23,5 +26,8 @@
   "bugs": {
     "url": "https://github.com/UltimateAngular/typescript-basics-seed/issues"
   },
-  "homepage": "https://github.com/UltimateAngular/typescript-basics-seed#readme"
+  "homepage": "https://github.com/UltimateAngular/typescript-basics-seed#readme",
+  "dependencies": {
+    "rxjs": "^7.3.0"
+  }
 }
